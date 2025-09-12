@@ -23,3 +23,4 @@ def flowchart4(i):
 
 i = int(input("Enter a number: "))
 flowchart4(i)
+
