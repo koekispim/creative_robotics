@@ -1,4 +1,4 @@
-# creative_robotics
+# Creative Robotics - Group 7: Co-crafting
 
 wiehoe hallo
 
